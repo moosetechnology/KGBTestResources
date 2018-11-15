@@ -2,13 +2,13 @@
 Baseline for KGBTestRessource 
 "
 Class {
-	#name : #BaselineOfKGBTestRessource,
+	#name : #BaselineOfKGBTestResources,
 	#superclass : #BaselineOf,
-	#category : #BaselineOfKGBTestRessource
+	#category : #BaselineOfKGBTestResources
 }
 
 { #category : #baselines }
-BaselineOfKGBTestRessource >> baseline: spec [
+BaselineOfKGBTestResources >> baseline: spec [
 	<baseline>
 	spec
 		for: #common
